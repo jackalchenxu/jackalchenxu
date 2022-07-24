@@ -1,6 +1,7 @@
 # My Blog
 - About Me(http://todo!)
-- New Technology - Lack of educative resource, Good! (https://github.com/jackalchenxu/jackalchenxu.github.io/issues/1)
+- [New Technology - Lack of educative resource, Good!](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/1)
+- [错误的知识会浪费别人宝贵的精力和时间](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/2)
 - Solana 
   - CookBook(http://todo!)
   - FrontEnd: Typescript + Vue(simple, suit for me!)
