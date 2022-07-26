@@ -12,4 +12,4 @@
     - 1(http://todo!)
     - [Escrow](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/), in Solana wiki links
 - 币圈胡说
-  - [为什么要销毁token？]() 
+  - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3) 
