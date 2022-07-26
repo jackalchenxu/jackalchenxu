@@ -8,7 +8,7 @@
     - [Web3.js](https://solana-labs.github.io/solana-web3.js/modules.html)
   - SPL Token
     - [JS Dev Reference](https://solana-labs.github.io/solana-program-library/token/js/modules.html)
-    - [Governance - Solana DAO toolkit](https://github.com/solana-labs/solana-program-library/tree/master/governance)
+    - [Governance - Solana DAO toolkit](https://github.com/solana-labs/solana-program-library/tree/master/governance) spl_tokens.rs包含了很多handy functions来做代币检查
   - Demo Study
     - 1(http://todo!)
     - [Escrow](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/), in Solana wiki links
