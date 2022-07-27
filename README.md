@@ -18,4 +18,4 @@
   - [MultiSig](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/5)
 - 币圈胡说
   - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3)
-  - xxx_Propaganda  
+  - [xxx_Propaganda](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/6)  
