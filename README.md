@@ -3,7 +3,7 @@
 - [New Technology - Lack of educative resource, Good!](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/1)
 - [错误的知识会浪费别人宝贵的精力和时间](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/2)
 - Solana 
-  - CookBook(http://todo!)
+  - CookBook(done!)
   - FrontEnd: Typescript + Vue(simple, suit for me!)
     - [Web3.js](https://solana-labs.github.io/solana-web3.js/modules.html)
   - SPL Token
@@ -16,7 +16,7 @@
   - 智能合约安全
     - [audit-reports](https://github.com/blocksecteam/audit-reports)
   - [MultiSig](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/5)
-  - [Solana的交易签名和NonceAccount]()
+  - [Solana的交易签名和NonceAccount](https://github.com/jackalchenxu/jackalchenxu/issues/7)
 - 币圈胡说
   - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3)
   - [xxx_Propaganda](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/6)  
