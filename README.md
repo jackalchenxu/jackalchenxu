@@ -17,4 +17,5 @@
     - [audit-reports](https://github.com/blocksecteam/audit-reports)
   - [MultiSig](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/5)
 - 币圈胡说
-  - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3) 
+  - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3)
+  - xxx_Propaganda  
