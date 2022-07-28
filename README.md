@@ -18,6 +18,6 @@
     - [audit-reports](https://github.com/blocksecteam/audit-reports)
   - [MultiSig](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/5)
   - [Solana的交易签名和NonceAccount](https://github.com/jackalchenxu/jackalchenxu/issues/7)
-- 币圈胡说
+- 胡说
   - [为什么要销毁token？](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/3)
   - [xxx_Propaganda](https://github.com/jackalchenxu/jackalchenxu.github.io/issues/6)  
