@@ -1,7 +1,8 @@
 # My Blog
 - **[About Me](https://github.com/jackalchenxu/jackalchenxu/issues/8)**
 
-- [DailyProgress](todo!)
+- [DailyProgress](https://github.com/jackalchenxu/jackalchenxu/issues/)
+- [Plan](https://github.com/jackalchenxu/jackalchenxu/issues/16)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
