@@ -2,7 +2,7 @@
 - **[About Me](https://github.com/jackalchenxu/jackalchenxu/issues/8)**
 
 - [DailyProgress](https://github.com/jackalchenxu/jackalchenxu/issues/)
-- [Plan](https://github.com/jackalchenxu/jackalchenxu/issues/16)
+- [Plan](https://github.com/jackalchenxu/jackalchenxu/issues/19)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
