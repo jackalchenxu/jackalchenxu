@@ -7,4 +7,4 @@
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
 - [Chat](https://github.com/jackalchenxu/jackalchenxu/issues/10)
-- [NFT](todo!)
+- [NFT](https://github.com/jackalchenxu/jackalchenxu/issues/16)
