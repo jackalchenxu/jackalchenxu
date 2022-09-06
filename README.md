@@ -6,5 +6,6 @@
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
+- [SmartContract]()
 - [Chat](https://github.com/jackalchenxu/jackalchenxu/issues/10)
 - [NFT](https://github.com/jackalchenxu/jackalchenxu/issues/16)
