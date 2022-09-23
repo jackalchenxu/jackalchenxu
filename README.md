@@ -8,5 +8,6 @@
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
 - [SmartContract](https://github.com/jackalchenxu/jackalchenxu/issues/28)
   - [Contract Security](https://github.com/jackalchenxu/jackalchenxu/issues/29)
+  - [Defi](https://github.com/jackalchenxu/jackalchenxu/issues/30)
 - [Chat](https://github.com/jackalchenxu/jackalchenxu/issues/10)
 - [NFT](https://github.com/jackalchenxu/jackalchenxu/issues/16)
