@@ -4,7 +4,7 @@
 - [Progress](https://github.com/jackalchenxu/jackalchenxu/issues/27)
 - [Plan](https://github.com/jackalchenxu/jackalchenxu/issues/19)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
-- [Polkadot/Substrate]()
+- [Polkadot/Substrate](https://github.com/jackalchenxu/jackalchenxu/issues/32)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
 - [SmartContract](https://github.com/jackalchenxu/jackalchenxu/issues/28)
