@@ -2,7 +2,7 @@
 - [About Me](https://github.com/jackalchenxu/jackalchenxu/issues/8)
 
 - [Rust]()
-  - [Rust Macro]()
+  - [Rust Macro](https://github.com/jackalchenxu/jackalchenxu/issues/35)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Polkadot/Substrate](https://github.com/jackalchenxu/jackalchenxu/issues/32)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
