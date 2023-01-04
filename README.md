@@ -3,6 +3,7 @@
 
 - [Rust]()
   - [Rust Macro](https://github.com/jackalchenxu/jackalchenxu/issues/35)
+  - [QuickCheck or Fuzzing](https://github.com/jackalchenxu/jackalchenxu/issues/36)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Polkadot/Substrate](https://github.com/jackalchenxu/jackalchenxu/issues/32)
 - [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
