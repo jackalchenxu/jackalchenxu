@@ -1,7 +1,8 @@
 # My Blog
 - [About Me](https://github.com/jackalchenxu/jackalchenxu/issues/8)
 
-- [Rust]()
+- Rust
+  - [惯用法](https://github.com/jackalchenxu/jackalchenxu/issues/37)
   - [Rust Macro](https://github.com/jackalchenxu/jackalchenxu/issues/35)
   - [QuickCheck or Fuzzing](https://github.com/jackalchenxu/jackalchenxu/issues/36)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
