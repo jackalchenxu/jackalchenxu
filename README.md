@@ -18,3 +18,4 @@
 - [Chat](https://github.com/jackalchenxu/jackalchenxu/issues/10)
 - [NFT](https://github.com/jackalchenxu/jackalchenxu/issues/16)
 - [System Deep]()
+- [AI]()
