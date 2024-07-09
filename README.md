@@ -10,7 +10,7 @@
   - [Rust + Linux](https://github.com/jackalchenxu/jackalchenxu/issues/41)
 - [Solana](https://github.com/jackalchenxu/jackalchenxu/issues/9)
 - [Polkadot/Substrate](https://github.com/jackalchenxu/jackalchenxu/issues/32)
-- [Move(Diem)](https://github.com/jackalchenxu/jackalchenxu/issues/15)
+- [Aptos/Move](https://github.com/jackalchenxu/jackalchenxu/issues/15)
 - [FrontEnd](https://github.com/jackalchenxu/jackalchenxu/issues/13)
 - [SmartContract](https://github.com/jackalchenxu/jackalchenxu/issues/28)
   - [Contract Security](https://github.com/jackalchenxu/jackalchenxu/issues/29)
