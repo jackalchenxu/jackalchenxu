@@ -24,3 +24,4 @@
 - [System Deep](https://github.com/jackalchenxu/jackalchenxu/issues/37)
 - [AI](https://github.com/jackalchenxu/jackalchenxu/issues/40)
 - [项目工程化](https://github.com/jackalchenxu/jackalchenxu/issues/44)
+- [TLDR]() - 最简洁的介绍各种东西！
